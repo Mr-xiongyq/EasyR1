@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# .gitignore
+examples/train_split.jsonl
+
 # Distribution / packaging
 .Python
 build/
